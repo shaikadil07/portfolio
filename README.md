@@ -142,7 +142,7 @@ https://portfolio-shaik-adil.vercel.app/
 Full Stack Developer | Java Developer | MERN Stack Enthusiast
 
 * GitHub: https://github.com/shaikadil07
-* LinkedIn: [Add Your LinkedIn Profile](https://www.linkedin.com/in/shaik-adil-5377502a6/)
+* LinkedIn: (https://www.linkedin.com/in/shaik-adil-5377502a6/)
 * Portfolio: https://portfolio-shaik-adil.vercel.app/
 
 ## 📄 License
